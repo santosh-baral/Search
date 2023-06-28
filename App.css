@@ -1,0 +1,43 @@
+.search{
+  height: 3rem;
+  width: 10rem;
+  margin-left: 20rem;
+  margin-top: 1rem;
+  border-radius: 3px;
+}
+.pop{
+  height: 2rem;
+  width: 70rem;
+  padding: 1rem;
+
+  margin-top: 1rem;
+  margin-left: 3rem;
+  border-radius: 1rem;
+  background-image: ;
+}
+.popup{
+  border-width: 2px;
+  border-style: solid;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 1rem;
+  border-radius: 2px;
+}
+.info{
+  margin-left: 3rem;
+  margin-top: 1rem;
+}
+.item{
+  border-width: 2px;
+  border-style: solid;
+  margin-right: 3rem;
+}
+.searchs{
+  margin-left: -30px;
+}
+.searchss{
+margin-left: -50px;
+}
+.list{
+margin-left: -40px;
+}
